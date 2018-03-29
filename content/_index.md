@@ -1,10 +1,9 @@
-﻿{{ partial "header.html" . }}
-    <div class="container">
+﻿    <div class="container">
         <div class="row">
             <div class="col-sm-4 py-2">
                 <div class="card h-100 border-primary">
                     <div class="card-body">
-                        <h3 class="card-title"></h3>
+                        <h3 class="card-title">Broker Toolkit asdasdasdasdads</h3>
                         <p class="card-text">Click here to access broking practice advice, broking documents and products......</p>
                         <button type="button" class="btn btn-lg btn-block btn-outline-primary">Go</button>
                     </div>
@@ -48,8 +47,3 @@
             </div>
         </div>
     </div>
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-{{ partial "footer.html" . }}
